@@ -1,9 +1,7 @@
 # Site settings
 title: "Zeinab Ghannam"
-description: "Research Assistant | Clinical AI | Imperial College London"
+description: "Research Assistant | AI for Clinical Data Analytics| Imperial College London | UK DRI "
 url: "https://ghannamzeinab.github.io"
-baseurl: ""
-
 # Navigation menu (top bar)
 include:
   - _pages
@@ -13,10 +11,9 @@ author:
   avatar           : "profile.png"
   name             : "Zeinab Ghannam"
   pronouns         : "she/her"
-  bio              : "Research Assistant | Clinical AI | Dept. of Brain Sciences, Imperial College London"
+  bio              : "Research Assistant | AI for Clinical Data Analytics| Dept. of Brain Sciences, Imperial College London"
   location         : "London, UK"
   employer         : "Imperial College London"
-  uri              : "https://www.imperial.ac.uk/brain-sciences/"
   email            : ""
 
   # Academic sites (hidden if left blank)
