@@ -1,19 +1,18 @@
 author:
-  avatar           : "profile.png" 
+  avatar           : "profile.png"
   name             : "Zeinab Ghannam"
   pronouns         : "she/her"
   bio              : "Research Assistant | Clinical AI | Dept. of Brain Sciences, Imperial College London"
   location         : "London, UK"
   employer         : "Imperial College London"
   uri              : "https://www.imperial.ac.uk/brain-sciences/"
-  email            : ""  
+  email            : ""
 
-  # Academic websites (not shown unless links are filled)
-  googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_ID"
-  orcid            :  # "https://orcid.org/..."
-  pubmed           :  
-  
+  # Academic websites (leave blank to hide)
+  googlescholar    :
+  orcid            :
+  pubmed           :
 
   # Developer/social profiles
   github           : "ghannamzeinab"
-  linkedin         : "in/zeinabghannam"   
+  linkedin         : "in/zeinabghannam"
